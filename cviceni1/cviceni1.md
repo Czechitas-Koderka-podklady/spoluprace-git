@@ -2,6 +2,8 @@
 
 V tomto příkladu si vyzkoušíme týmovou spolupráci v Gitu. Vaším úkolem bude vytvořit webovou stránku pro e-shop s pánskými obleky. Stránka má vypadat přesně dle tohoto [grafického návrhu](assets/layout.png).
 
+![grafický návrh](assets/layout.png)
+
 Pro účely všech následujících cvičení budeme pracovat ve dvoučlenných týmech. Jeden z týmu hraje roli **Alice** a druhý roli **Barbory**. Instrukce jsou vždy pro Alici nebo Barboru. Držte si kloubouky, začínáme:
 
 Úkol pro **Alici**. Barbora čeká.
