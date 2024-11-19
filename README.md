@@ -1,6 +1,6 @@
 # Spolupráce v Gitu
 
-- [Spolupráce v Gitu](spoluprace/spoluprace.md)
+[Spolupráce v Gitu](spoluprace/spoluprace.md)
 
 ## Cvičení
 
